@@ -1,7 +1,8 @@
-# Example Progress Journal
+# Progress Journal
 
-## Week 0 ( September 19)
+[Here](files/360-PROJECT-2.html) is our final report.
 
-[Here](files/example_homework_0.html) is my 5 interesting R examples.
+
+
 
 
